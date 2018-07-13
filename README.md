@@ -96,6 +96,7 @@ Contributions most welcome.
 * [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
 ## Learning
